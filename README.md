@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Snehan25/Snehan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 LeetCode Daily Tracker
 
-Here are some ideas to get you started:
+I'm tracking my daily problem-solving journey on LeetCode using Notion.  
+Each day logs the question number, title, difficulty, tags, and solution status.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 [Check it out here](https://www.notion.so/LeetCode-Daily-Tracker-205c4bb8946680b5802cfa7f206f8968?source=copy_link)
+
+[![Notion Page](https://img.shields.io/badge/Notion-LeetCode_Tracker-blue?logo=notion)](https://your-notion-url-here)
+
+![LeetCode Tracker Banner](https://source.unsplash.com/1600x400/?leetcode,terminal,code)
+
